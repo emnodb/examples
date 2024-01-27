@@ -2,7 +2,7 @@
 
 ## Welcome to the Exploration of Movie Recommendation Systems!
 
-Dive into the application of vector databases in movie recommendation systems. This practical exploration is paired with insights from our two blog posts in our series: "Recommendation Systems 101" and "Vector Databases in Movie Recommenders." 
+Dive into the application of vector databases in movie recommendation systems. This practical exploration is paired with insights from our two blog posts in our series: ["Recommendation Systems 101"](https://blog.emno.io/recommendation-systems-101) and ["Vector Databases in Movie Recommenders."](https://blog.emno.io/vector-databases-in-movie-recommenders) 
 Our goal is to demonstrate how vector databases contribute to creating dynamic and personalized movie recommendation experiences.
 
 ### What You'll Discover Here
