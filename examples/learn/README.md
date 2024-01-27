@@ -1,4 +1,4 @@
-# The AI Advantage - Hands-On Learning
+# The AI Advantage: Hands-On Learning
 
 ## Welcome to the Learn Section!
 
